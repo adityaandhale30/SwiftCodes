@@ -1,1 +1,1 @@
-print("Hii Swft")
+print("Hii Swift")
