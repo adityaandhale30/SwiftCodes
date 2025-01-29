@@ -5,3 +5,6 @@ if num>21{
 } else {
     print("num is not greater");
 }
+for i in 1...5 {
+    print(i)
+}
